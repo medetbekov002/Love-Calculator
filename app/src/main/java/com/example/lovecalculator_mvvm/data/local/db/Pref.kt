@@ -1,4 +1,4 @@
-package com.example.lovecalculator_mvvm.local.db
+package com.example.lovecalculator_mvvm.data.local.db
 
 import android.content.Context
 import android.content.SharedPreferences

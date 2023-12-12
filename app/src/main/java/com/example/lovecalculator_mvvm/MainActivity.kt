@@ -1,4 +1,4 @@
-package com.example.lovecalculator_mvvm.ui
+package com.example.lovecalculator_mvvm
 
 import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle

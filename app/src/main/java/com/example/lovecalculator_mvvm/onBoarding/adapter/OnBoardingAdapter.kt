@@ -1,4 +1,4 @@
-package com.example.lovecalculator_mvvm.onBoarding.adapter
+package com.example.lovecalculator_mvvm.onboarding.adapter
 
 import android.view.LayoutInflater
 import android.view.ViewGroup

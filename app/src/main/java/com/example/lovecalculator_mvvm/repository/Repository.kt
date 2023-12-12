@@ -2,8 +2,8 @@ package com.example.lovecalculator_mvvm.repository
 
 import android.util.Log
 import androidx.lifecycle.MutableLiveData
-import com.example.lovecalculator_mvvm.remote.LoveApi
-import com.example.lovecalculator_mvvm.remote.LoveModel
+import com.example.lovecalculator_mvvm.data.remote.LoveApi
+import com.example.lovecalculator_mvvm.data.remote.LoveModel
 import retrofit2.Call
 import retrofit2.Callback
 import retrofit2.Response

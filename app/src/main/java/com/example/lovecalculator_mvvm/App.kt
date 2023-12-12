@@ -2,7 +2,7 @@ package com.example.lovecalculator_mvvm
 
 import android.app.Application
 import androidx.room.Room
-import com.example.lovecalculator_mvvm.local.room.AppDatabase
+import com.example.lovecalculator_mvvm.data.local.room.AppDatabase
 import dagger.hilt.android.HiltAndroidApp
 
 @HiltAndroidApp

@@ -7,7 +7,7 @@
 
     <activity
         android:id="@+id/mainActivity"
-        android:name="com.example.lovecalculator_mvvm.ui.MainActivity"
+        android:name="com.example.lovecalculator_mvvm.MainActivity"
         android:label="activity_main"
         tools:layout="@layout/activity_main" />
 
@@ -26,7 +26,7 @@
     <fragment
         android:id="@+id/onBoardingFragment"
         tools:layout="@layout/fragment_on_boarding"
-        android:name="com.example.lovecalculator_mvvm.onBoarding.OnBoardingFragment"
+        android:name="com.example.lovecalculator_mvvm.onboarding.OnBoardingFragment"
         android:label="OnBoardingFragment" />
 
     <fragment

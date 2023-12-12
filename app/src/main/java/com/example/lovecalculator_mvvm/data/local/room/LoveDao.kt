@@ -1,9 +1,9 @@
-package com.example.lovecalculator_mvvm.local.room
+package com.example.lovecalculator_mvvm.data.local.room
 
 import androidx.room.Dao
 import androidx.room.Insert
 import androidx.room.Query
-import com.example.lovecalculator_mvvm.remote.LoveModel
+import com.example.lovecalculator_mvvm.data.remote.LoveModel
 
 @Dao
 interface LoveDao{
